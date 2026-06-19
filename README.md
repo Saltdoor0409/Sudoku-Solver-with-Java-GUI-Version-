@@ -5,4 +5,4 @@ Hi, I'm Jun Xian. First of all this program is public, so you can just download 
 Although you can find a better Sudoku solver online, you might as well have a look at my program XD. 
 
 
-This Repository has two branches, one for personal computer equipment and the other for android platform. Android platform needs to install Android Studio and then build the whole apk, which can be downloaded on the mobile phone. I don't know if installing third-party applications will be stricter in recent years, but good luck.
+This Repository has two branches, one for personal computer equipment (main Branch) and the other for android platform (Android Branch). Android platform needs to install Android Studio and then build the whole apk, which can be downloaded on the mobile phone. I don't know if installing third-party applications will be stricter in recent years, but good luck.
